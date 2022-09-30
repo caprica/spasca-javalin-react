@@ -14,7 +14,7 @@
         <frontend.app.dir>${project.basedir}/src/main/app</frontend.app.dir>
         <main.class>uk.co.caprica.spasca.Application</main.class>
         <node.version>v10.15.0</node.version>
-        <scala.version>2.13.0</scala.version>
+        <scala.version>2.13.9</scala.version>
         <yarn.version>v1.13.0</yarn.version>
     </properties>
 
